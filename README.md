@@ -1,6 +1,14 @@
 # c2-groundfollow-behavior
 A Construct 2 behavior to enhance the platform behavior and make the character follow the ground angle accurately.
 
+Default Platform behavior
+
+![](https://github.com/Mimiste/c2-groundfollow-behavior/blob/master/help_files/without.gif)
+
+With Ground Follow
+
+![](https://github.com/Mimiste/c2-groundfollow-behavior/blob/master/help_files/with.gif)
+
 ## Installation
 
 Copy the "groundfollow" folder in your construct2\exporters\html5\behaviors folder
