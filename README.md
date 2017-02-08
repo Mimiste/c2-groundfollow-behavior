@@ -7,6 +7,10 @@ Copy the "groundfollow" folder in your construct2\exporters\html5\behaviors fold
 
 ## Usage
 
+First add the Platform behavior on your object (it also work with the [PlatformPlus](https://www.scirra.com/forum/behavior-platform-an-enhanced-behavior_t81233) behavior by [ZnelArts](https://github.com/ZnelArts/))
+
+Then simply add the Ground Follow behavior on your object and it should work !
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
